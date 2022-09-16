@@ -1,0 +1,9 @@
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\OperadoresAritmeticos\bin\Debug\OperadoresAritmeticos.exe
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\OperadoresAritmeticos\bin\Debug\OperadoresAritmeticos.pdb
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.csproj.AssemblyReference.cache
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.FrmCalculadora.resources
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.Properties.Resources.resources
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.csproj.GenerateResource.cache
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.exe
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.pdb
